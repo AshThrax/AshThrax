@@ -4,7 +4,10 @@
 </div>
 
 <div>
- 
+
+# Spécifivation
+
+ - Learn / Adap/ Overcome
  - C# / net magicians
  - Java
  - Unity
