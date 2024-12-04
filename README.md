@@ -5,6 +5,6 @@ Here are some ideas to get you started:
 - C# / net magicians
 - Java
 - Unity
-- React 
+- React TypeScript
 - ⚡ Fun fact: ...
 
