@@ -8,9 +8,9 @@
 ## Spécification
 
 <div align="center">
- - C# / Net magicians
- - Java
- - Unity *(when i got the time)*
+ - :metal: C# / Net magicians
+ -:metal: Java
+ -:metal: Unity *(when i got the time)*
  - React TypeScript
  - ⚡ Fun fact: Praise the omnimessahiah
 </div>
