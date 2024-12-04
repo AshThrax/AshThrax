@@ -20,3 +20,9 @@
 ## Quote
 
   *Quote* : "Learn / Adap/ Overcome"
+<style>
+ ul{
+  list-style: none;
+  
+ }
+</style>
