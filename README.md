@@ -5,11 +5,12 @@
   <img  alt="computer" src="https://media1.tenor.com/m/zw3HWomJs3YAAAAd/darktide-adeptus-mechanicus.gif"><br>
 
 ## Spécification
- - :metal: C# / Net magicians
- - :suspect: Java
- - :feelsgood: Unity *(when i got the time)*
- - :feelsgood: React TypeScript
- - ⚡ Fun fact: Praise the omnimessahiah
+<ul>
+ <li> :metal: C# / Net magicians</li>
+ <li> :suspect: Java</li>
+ <li> :feelsgood: Unity *(when i got the time)*</li>
+ <li> :feelsgood: React TypeScript</li>
+ <li>⚡ Fun fact: Praise the omnimessahiah</li>
 </div>
 
 
