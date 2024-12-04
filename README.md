@@ -16,6 +16,5 @@
 </div>
 
 ## Quote
-<div align="center">
+
   *Quote* : "Learn / Adap/ Overcome"
-</div>
