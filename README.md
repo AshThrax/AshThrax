@@ -4,15 +4,18 @@
  <div align="center">
   <img alt="computer" src="https://media1.tenor.com/m/zw3HWomJs3YAAAAd/darktide-adeptus-mechanicus.gif"><br>
 </div>
-# Spécification
+
+## Spécification
 
 <div align="center">
- - Learn / Adap/ Overcome
- - C# / net magicians
+ - C# / Net magicians
  - Java
  - Unity
  - React TypeScript
  - ⚡ Fun fact: Praise the omnimessahiah
- 
 </div>
 
+## Quote
+<div align="center">
+ - *Quote* : "Learn / Adap/ Overcome"
+</div>
