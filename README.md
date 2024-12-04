@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
  <div align="center">
-  <img alt="computer" src="[https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif](https://media.tenor.com/zw3HWomJs3YAAAAM/darktide-adeptus-mechanicus.gif)"><br>
+  <img alt="computer" src="https://github.com/user-attachments/assets/bbf97611-2c7a-48c2-8b0f-391a1c67f4b1"><br>
 </div>
 
 - C# / net magicians
