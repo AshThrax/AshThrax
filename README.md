@@ -15,7 +15,7 @@
 
 ## Quote
 
-  *Quote* : *Learn / Adap/ Overcome*
+  *Quote* : *Learn / Adapt/ Overcome*
 </div>
 
 
