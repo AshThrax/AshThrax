@@ -10,7 +10,7 @@
     <li> :suspect: Java</li>
     <li> :feelsgood: Unity *(when i got the time)*</li>
     <li> :feelsgood: React TypeScript</li>
-    <li>⚡ Fun fact: Praise the omnimessahiah</li>
+    <li>⚡ Fun fact: Praise the omni-messahiah</li>
     </ul>
 
 ## Quote
