@@ -7,7 +7,8 @@
 ## Spécification
    <ul style="list-style-type: none;">
     <li> :metal: C# / Net magicians</li>
-    <li> :suspect: Java</li>
+    <li> :metal: TypeScript enjoyer/li>
+    <li> :suspect: Java fan </li>
     <li> :feelsgood: Unity *(when i got the time)*</li>
     <li> :feelsgood: React TypeScript</li>
     <li>⚡ Fun fact: Praise the omni-messahiah</li>
