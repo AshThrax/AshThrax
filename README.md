@@ -1,60 +1,38 @@
-<!-- README Cyberpunk 2077 Inspired -->
-<div align="center" style="position: relative; display: inline-block; padding: 20px; border: 4px solid #fcee09; border-radius: 12px; box-shadow: 0 0 20px #ff00c8, 0 0 30px #00f0ff; background-color: #0d0d0d;">
+<!-- README - Cyberpunk 2077 Inspired -->
 
-  <img src="https://media1.tenor.com/m/zw3HWomJs3YAAAAd/darktide-adeptus-mechanicus.gif" alt="dark-mechanicus" style="border-radius: 12px; border: 2px solid #ff0040; box-shadow: 0 0 30px #ff0040;"/>
+<p align="center">
+  <img src="https://media1.tenor.com/m/zw3HWomJs3YAAAAd/darktide-adeptus-mechanicus.gif" alt="dark-mechanicus" width="500"/>
+</p>
 
-  <h1 style="font-family:'Orbitron', sans-serif; color:#fcee09; font-size:3em; text-shadow: 0 0 15px #00fff7;">
-    💀 ASHTHRAX.EXE
-  </h1>
+<h1 align="center">
+  💀 ASHTHRAX.EXE
+</h1>
 
-  <h3 style="color:#ff0055; font-family:'Courier New', monospace;">
-    <em>Running on neural threads... Injecting netcode...</em>
-  </h3>
+<p align="center">
+  <em>Running on neural threads... Injecting netcode...</em>
+</p>
 
-  <br>
-
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=3000&color=FCEE09&center=true&vCenter=true&width=500&lines=Jacking+into+Night+City...;Establishing+link...;System+Armed+%26+Online." alt="Typing SVG" />
-
-</div>
-<div align="center" style="padding: 20px; border: 3px solid #fcee09; border-radius: 12px; box-shadow: 0 0 25px #ff00c8, 0 0 40px #00f0ff; background-color: #0d0d0d;">
-
-  <img src="https://media1.tenor.com/m/zw3HWomJs3YAAAAd/darktide-adeptus-mechanicus.gif" alt="dark-mechanicus" style="border-radius: 8px; max-width: 100%; box-shadow: 0 0 20px #ff0040;"/>
-
-  <h1 style="font-family: 'Courier New', monospace; color: #fcee09; text-shadow: 0 0 8px #ff00ff;">💀 ASHTHRAX.EXE</h1>
-
-  <p style="color:#00fff7; font-family: 'Courier New', monospace;">
-    "Learn. Adapt. Overcome."
-  </p>
-
-  <p style="color: #ff0055; font-family: 'Courier New', monospace;">
-    .NET netrunner / React slicer / Unity tech-priest
-  </p>
-
-</div>
+</p>
 
 ---
 
 ## 🛠️ SPECIFICATIONS
 
-<ul style="list-style:none; font-family: 'Courier New', monospace; color:#fcee09; font-size:1.1em;">
-  <li>🧠 <strong style="color:#00fff7;">C# / .NET Netrunner</strong></li>
-  <li>🧪 <strong style="color:#ff006e;">TypeScript Slicer</strong></li>
-  <li>☕ <strong style="color:#ffcc00;">Java Joyrider</strong></li>
-  <li>🎮 <strong style="color:#00ffff;">Unity Synth Dev</strong></li>
-  <li>⚛️ <strong style="color:#f72585;">React w/ TypeScript</strong></li>
-  <li>🤖 <strong style="color:#fb5607;">Fun Fact:</strong> Praise the Omni-Messiah 🔧</li>
-</ul>
+- 🧠 `C# / .NET` **Netrunner**
+- 🧪 `TypeScript` **Slicer**
+- ☕ `Java` **Joyrider**
+- 🎮 `Unity` **Synth Dev**
+- ⚛️ `React` + TypeScript
+- 🤖 **Fun Fact**: Praise the Omni-Messiah 🔧
 
 ---
 
 ## 💬 SYSTEM QUOTE
 
-<div align="center">
-  <p style="color:#00fff7; font-size:1.2em; font-family:'Courier New', monospace;">
-    "<strong>Learn. Adapt. Overcome.</strong>"
-  </p>
-  <p style="color:#ff0055; font-size:0.9em; font-style:italic;">- AshThrax, net-bound entity</p>
-</div>
+> _"Learn. Adapt. Overcome."_  
+> `— AshThrax, net-bound entity`
 
 ---
 
@@ -66,8 +44,6 @@
 
 ---
 
-<div align="center">
-
-  <img src="https://imgur.com/gallery/cyberpunk-glitch-48AnG0z#h76Mijo" alt="glitch" width="500" style="border-radius:10px; box-shadow: 0 0 25px #00fff7;" />
-
-</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/h9dYbS3FzTDo0/giphy.gif" alt="glitch effect" width="500"/>
+</p>
