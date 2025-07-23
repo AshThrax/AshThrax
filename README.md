@@ -1,5 +1,5 @@
 <!-- README Cyberpunk 2077 Inspired -->
-<div align="center">
+<div align="center" style="position: relative; display: inline-block; padding: 20px; border: 4px solid #fcee09; border-radius: 12px; box-shadow: 0 0 20px #ff00c8, 0 0 30px #00f0ff; background-color: #0d0d0d;">
 
   <img src="https://media1.tenor.com/m/zw3HWomJs3YAAAAd/darktide-adeptus-mechanicus.gif" alt="dark-mechanicus" style="border-radius: 12px; border: 2px solid #ff0040; box-shadow: 0 0 30px #ff0040;"/>
 
