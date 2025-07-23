@@ -35,7 +35,7 @@
 > `— AshThrax, net-bound entity`
 
 ---
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 ## 🧠 SIDE QUESTS
 
 - 🕶️ Exploring the Net since 20XX  
