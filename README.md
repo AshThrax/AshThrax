@@ -1,32 +1,58 @@
-<!-- Cyberpunk README - AshThrax -->
+<!-- README Cyberpunk 2077 Inspired -->
 <div align="center">
 
-  <img src="https://media1.tenor.com/m/zw3HWomJs3YAAAAd/darktide-adeptus-mechanicus.gif" alt="dark-mechanicus" style="border: 2px solid #0ff; border-radius: 10px; box-shadow: 0 0 20px #0ff;"><br>
+  <img src="https://media1.tenor.com/m/zw3HWomJs3YAAAAd/darktide-adeptus-mechanicus.gif" alt="dark-mechanicus" style="border-radius: 12px; border: 2px solid #ff0040; box-shadow: 0 0 30px #ff0040;"/>
 
-  <h1 style="color:#ff0080; font-family: 'Courier New', monospace;">⚡ AshThrax ⚡</h1>
-  <h3 style="color:#00fff7; font-family: 'Courier New', monospace;">"Code is law. Neon is life."</h3>
+  <h1 style="font-family:'Orbitron', sans-serif; color:#fcee09; font-size:3em; text-shadow: 0 0 15px #00fff7;">
+    💀 ASHTHRAX.EXE
+  </h1>
+
+  <h3 style="color:#ff0055; font-family:'Courier New', monospace;">
+    <em>Running on neural threads... Injecting netcode...</em>
+  </h3>
+
+  <br>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=3000&color=FCEE09&center=true&vCenter=true&width=500&lines=Jacking+into+Night+City...;Establishing+link...;System+Armed+%26+Online." alt="Typing SVG" />
+
+</div>
 
 ---
 
-## 🧬 Specifications
-<ul style="list-style-type: none; font-family: 'Courier New', monospace; color: #ff00ff;">
-  <li>🧠 <strong style="color:#00ffea;">C# / .NET Magician</strong></li>
-  <li>🕶️ <strong style="color:#39ff14;">TypeScript Enjoyer</strong></li>
-  <li>💾 <strong style="color:#ff6ec7;">Java Fan (no shame)</strong></li>
-  <li>🕹️ <strong style="color:#ffcc00;">Unity Dev (when time bends)</strong></li>
-  <li>⚛️ <strong style="color:#00ffff;">React + TS Craftsman</strong></li>
-  <li>🔧 <strong style="color:#ff4d00;">Fun Fact: Praise the Omni-Messiah 🤖</strong></li>
+## 🛠️ SPECIFICATIONS
+
+<ul style="list-style:none; font-family: 'Courier New', monospace; color:#fcee09; font-size:1.1em;">
+  <li>🧠 <strong style="color:#00fff7;">C# / .NET Netrunner</strong></li>
+  <li>🧪 <strong style="color:#ff006e;">TypeScript Slicer</strong></li>
+  <li>☕ <strong style="color:#ffcc00;">Java Joyrider</strong></li>
+  <li>🎮 <strong style="color:#00ffff;">Unity Synth Dev</strong></li>
+  <li>⚛️ <strong style="color:#f72585;">React w/ TypeScript</strong></li>
+  <li>🤖 <strong style="color:#fb5607;">Fun Fact:</strong> Praise the Omni-Messiah 🔧</li>
 </ul>
 
 ---
 
-## 🧠 Quote of the Void
-<p style="color:#00ffea; font-style: italic; font-family: 'Courier New', monospace;">
-  "Learn. Adapt. Overcome."
-</p>
+## 💬 SYSTEM QUOTE
 
-<br>
+<div align="center">
+  <p style="color:#00fff7; font-size:1.2em; font-family:'Courier New', monospace;">
+    "<strong>Learn. Adapt. Overcome.</strong>"
+  </p>
+  <p style="color:#ff0055; font-size:0.9em; font-style:italic;">- AshThrax, net-bound entity</p>
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Initializing+AshThrax.exe...;Injecting+Neon+Protocol...;System+Online+%3A%3A+Awaiting+Input" alt="Typing SVG" />
+---
+
+## 🧠 SIDE QUESTS
+
+- 🕶️ Exploring the Net since 20XX  
+- 🧬 Glitched at birth, optimized at runtime  
+- 🌐 Living on the edge of the stack
+
+---
+
+<div align="center">
+
+  <img src="https://i.imgur.com/XDFB3ZL.gif" alt="glitch" width="500" style="border-radius:10px; box-shadow: 0 0 25px #00fff7;" />
 
 </div>
