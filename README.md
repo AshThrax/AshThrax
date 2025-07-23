@@ -8,45 +8,41 @@ Back end developper
 
 </p>
 
-\---
 
-\---
 
-\---
+## 🛠️ SPECIFICATIONS
 
-\## 🛠️ SPECIFICATIONS
+- 🧠 \`C# / .NET\` \*\*Netrunner\*\*
 
-\- 🧠 \`C# / .NET\` \*\*Netrunner\*\*
+- 🧪 \`TypeScript\` \*\*Slicer\*\*
 
-\- 🧪 \`TypeScript\` \*\*Slicer\*\*
+- ☕ \`Java\` \*\*Joyrider\*\*
 
-\- ☕ \`Java\` \*\*Joyrider\*\*
+- 🎮 \`Unity\` \*\*Synth Dev\*\*
 
-\- 🎮 \`Unity\` \*\*Synth Dev\*\*
+- ⚛️ \`React\` + TypeScript
 
-\- ⚛️ \`React\` + TypeScript
+- 🤖 \*\*Fun Fact\*\*: Praise the Omni-Messiah 🔧
 
-\- 🤖 \*\*Fun Fact\*\*: Praise the Omni-Messiah 🔧
+---
 
-\---
+## 💬 SYSTEM QUOTE
 
-\## 💬 SYSTEM QUOTE
+> \_"Learn. Adapt. Overcome."\_
 
-\> \_"Learn. Adapt. Overcome."\_
+> \`— AshThrax, net-bound entity\`
 
-\> \`— AshThrax, net-bound entity\`
+---
 
-\---
 
-!\[AshThrax's GitHub stats\](https://github-readme-stats.vercel.app/api?username=AshThrax&show\_icons=true&theme=radical)
 
-\## 🧠 SIDE QUESTS
+## 🧠 SIDE QUESTS
 
-\- 🕶️ Exploring the Net since 20XX
+- 🕶️ Exploring the Net since 20XX
 
-\- 🧬 Glitched at birth, optimized at runtime
+- 🧬 Glitched at birth, optimized at runtime
 
-\- 🌐 Living on the edge of the stack
+- 🌐 Living on the edge of the stack
 
 ### Skills
 
