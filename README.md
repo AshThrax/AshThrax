@@ -16,6 +16,21 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=3000&color=FCEE09&center=true&vCenter=true&width=500&lines=Jacking+into+Night+City...;Establishing+link...;System+Armed+%26+Online." alt="Typing SVG" />
 
 </div>
+<div align="center" style="padding: 20px; border: 3px solid #fcee09; border-radius: 12px; box-shadow: 0 0 25px #ff00c8, 0 0 40px #00f0ff; background-color: #0d0d0d;">
+
+  <img src="https://media1.tenor.com/m/zw3HWomJs3YAAAAd/darktide-adeptus-mechanicus.gif" alt="dark-mechanicus" style="border-radius: 8px; max-width: 100%; box-shadow: 0 0 20px #ff0040;"/>
+
+  <h1 style="font-family: 'Courier New', monospace; color: #fcee09; text-shadow: 0 0 8px #ff00ff;">💀 ASHTHRAX.EXE</h1>
+
+  <p style="color:#00fff7; font-family: 'Courier New', monospace;">
+    "Learn. Adapt. Overcome."
+  </p>
+
+  <p style="color: #ff0055; font-family: 'Courier New', monospace;">
+    .NET netrunner / React slicer / Unity tech-priest
+  </p>
+
+</div>
 
 ---
 
