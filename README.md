@@ -53,6 +53,6 @@
 
 <div align="center">
 
-  <img src="https://i.imgur.com/XDFB3ZL.gif" alt="glitch" width="500" style="border-radius:10px; box-shadow: 0 0 25px #00fff7;" />
+  <img src="https://imgur.com/gallery/cyberpunk-glitch-48AnG0z#h76Mijo" alt="glitch" width="500" style="border-radius:10px; box-shadow: 0 0 25px #00fff7;" />
 
 </div>
