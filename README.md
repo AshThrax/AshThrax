@@ -13,8 +13,8 @@
 </p>
 
 ---
+## 🛠️ Specifications
 <div align="center">
-  ## 🛠️ Specifications
   
   | Tech              | Role                       |
   | ----------------- | -------------------------- |
@@ -27,8 +27,9 @@
   
   ---
 </div>
-<div align="center">
+
 ## 💬 System Quote
+<div align="center">
 
 > "Learn. Adapt. Overcome."
 > — *AshThrax, net‑bound entity*
