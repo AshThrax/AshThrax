@@ -83,12 +83,6 @@
 
 <p align="center">
   <a href="https://github.com/AshThrax">
-    <img src="https://github-readme-stats.vercel.app/api?username=AshThrax&show_icons=true&count_private=true&hide_border=true&bg_color=1c1917&title_color=0891b2&icon_color=0891b2&text_color=ffffff" alt="AshThrax's GitHub Stats"/>
-  </a>
-  <a href="https://github.com/AshThrax">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AshThrax&hide_border=true&background=1c1917&stroke=ffffff&ring=0891b2&currStreakNum=ffffff&fire=0891b2" alt="AshThrax's GitHub Streak"/>
-  </a>
-  <a href="https://github.com/AshThrax">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshThrax&langs_count=10&hide_border=true&layout=compact&bg_color=1c1917&title_color=0891b2&text_color=ffffff" alt="Top Languages"/>
   </a>
 </p>
