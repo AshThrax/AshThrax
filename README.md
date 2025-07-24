@@ -27,14 +27,15 @@
   
   ---
 </div>
-
+<div align="center">
 ## 💬 System Quote
 
 > "Learn. Adapt. Overcome."
 > — *AshThrax, net‑bound entity*
 
 ---
-
+</div>
+<div align="center">
 ## 🧠 Side Quests
 
 * 🕶️ Exploring the Net since **20XX**
@@ -42,6 +43,8 @@
 * 🌐 Living on the edge **of the stack**
 
 ---
+  
+</div>
 
 ## 🚀 Skills
 
