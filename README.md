@@ -38,10 +38,20 @@
 </div>
 <div align="center">
 ## 🧠 Side Quests
-
-* 🕶️ Exploring the Net since **20XX**
-* 🧬 Glitched at birth, **optimized at runtime**
-* 🌐 Living on the edge **of the stack**
+<p align="center">
+<p>
+🕶️ Exploring the Net since **20XX**
+  
+</p>
+<p>
+  🧬 Glitched at birth, **optimized at runtime**
+</p> 
+<p>
+🌐 Living on the edge **of the stack**
+  
+</p>
+  
+</p>
 
 ---
   
