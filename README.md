@@ -13,19 +13,20 @@
 </p>
 
 ---
-
-## 🛠️ Specifications
-
-| Tech              | Role                       |
-| ----------------- | -------------------------- |
-| 🧠 **C# / .NET**  | Netrunner                  |
-| 🧪 **TypeScript** | Slicer                     |
-| ☕ **Java**        | Joyrider                   |
-| 🎮 **Unity**      | Synth Dev                  |
-| ⚛️ **React + TS** | Frontline UI               |
-| 🤖 **Fun Fact**   | Praise the Omni‑Messiah 🔧 |
-
----
+<div align="center">
+  ## 🛠️ Specifications
+  
+  | Tech              | Role                       |
+  | ----------------- | -------------------------- |
+  | 🧠 **C# / .NET**  | Netrunner                  |
+  | 🧪 **TypeScript** | Slicer                     |
+  | ☕ **Java**        | Joyrider                   |
+  | 🎮 **Unity**      | Synth Dev                  |
+  | ⚛️ **React + TS** | Frontline UI               |
+  | 🤖 **Fun Fact**   | Praise the Omni‑Messiah 🔧 |
+  
+  ---
+</div>
 
 ## 💬 System Quote
 
